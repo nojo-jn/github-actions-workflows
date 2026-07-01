@@ -2,10 +2,11 @@ name: Activity Types Workflow
 
 on:
     pull_request:
-        types: [opened, synchronize, reopened]
+        types: [opened, synchronize, closed, reopened]
         # types:
         #   - opened
         #   - synchronize
+        #   - closed
         #   - reopened
         branches:
             - main  
