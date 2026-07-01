@@ -10,4 +10,4 @@ requests **targeting `main`**, but only for these activity types:
 | `reopened` | a previously closed PR is reopened |
 
 Each run prints the triggering action:
-Activity Types Workflow is running for action: <action>
+Activity Types Workflow is running for action: `<action>`
