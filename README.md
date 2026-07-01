@@ -1,4 +1,4 @@
-# # Activity Types Workflow / activity-types-workflows.yaml
+# Activity Types Workflow / activity-types-workflows.yaml
 
 The workflow in `.github\workflows\activity-types-workflows.yaml` runs on pull
 requests **targeting `main`**, but only for these activity types:
